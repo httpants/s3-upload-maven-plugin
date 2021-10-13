@@ -12,3 +12,7 @@ test-output
 *.war
 *.ear
 
+/bin/
+.classpath
+.project
+.settings
