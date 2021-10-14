@@ -9,8 +9,8 @@
 
   <scm>
     <url>https://github.com/httpants/s3-upload-maven-plugin</url>
-    <connection>scm:git:git@github.com:httpants/s3-upload-maven-plugin.git</connection>
-    <developerConnection>scm:git:git@github.com:httpants/s3-upload-maven-plugin.git</developerConnection>
+    <connection>scm:git:https://github.com/httpants/s3-upload-maven-plugin.git</connection>
+    <developerConnection>scm:git:https://github.com/httpants/s3-upload-maven-plugin.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
