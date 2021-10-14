@@ -3,7 +3,7 @@
 
   <groupId>au.com.cyberavenue</groupId>
   <artifactId>s3-upload-maven-plugin</artifactId>
-  <version>1.5.1-SNAPSHOT</version>
+  <version>1.5.1</version>
   <packaging>maven-plugin</packaging>
   <name>S3 upload maven plugin</name>
 
@@ -11,7 +11,7 @@
     <url>https://github.com/httpants/s3-upload-maven-plugin</url>
     <connection>scm:git:git@github.com:httpants/s3-upload-maven-plugin.git</connection>
     <developerConnection>scm:git:git@github.com:httpants/s3-upload-maven-plugin.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>s3-upload-maven-plugin-1.5.1</tag>
   </scm>
 
   <distributionManagement>
